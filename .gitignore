@@ -1,0 +1,27 @@
+# System
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# TA and instructor materials
+README.md
+
+# Backend scripts
+analysis.py
+centrality_analysis.py
+cumulative_analysis.py
+predict_analysis.py
+generate_presentation_images.py
+
+# Old drafts
+PROJECT_A_DESIGN.md
+PROJECT_A_DESIGN_v2.md
+project_A_starter.ipynb
+project_A_starter_v2.ipynb
+hp_network_presentation.txt
+
+# Generated images and plots
+images/
+*.png
+*.pdf

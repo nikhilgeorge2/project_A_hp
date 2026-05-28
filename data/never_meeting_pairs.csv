@@ -1,0 +1,807 @@
+char_a,char_b,common_neighbors_after_book5,is_dead_character,is_historical_figure,is_narrative_exit,genuine_refusal
+Cho Chang,Minerva McGonagall,40,False,False,False,True
+Cho Chang,Rubeus Hagrid,39,False,False,False,True
+Cedric Diggory,Severus Snape,37,True,False,False,False
+Cornelius Fudge,Ginevra Weasley,36,False,False,False,True
+Cedric Diggory,Neville Longbottom,36,True,False,False,False
+Cedric Diggory,Percy Weasley,34,True,False,True,False
+Dolores Umbridge,Percy Weasley,33,False,False,True,False
+Filius Flitwick,Godric Gryffindor,32,False,True,False,False
+Sirius Black,Vincent Crabbe,32,True,False,False,False
+Gilderoy Lockhart,Sirius Black,32,True,False,True,False
+Dolores Umbridge,Vincent Crabbe,32,False,False,False,True
+Helga Hufflepuff,Neville Longbottom,32,False,True,False,False
+Fred Weasley,Rowena Ravenclaw,32,False,True,False,False
+Bartemius Crouch Senior,Draco Malfoy,32,True,False,False,False
+Fred Weasley,Seamus Finnigan,31,False,False,False,True
+Minerva McGonagall,Viktor Krum,31,False,False,False,True
+Argus Filch,Tom Riddle,31,False,False,False,True
+Cornelius Fudge,Godric Gryffindor,31,False,True,False,False
+George Weasley,Seamus Finnigan,30,False,False,False,True
+Alastor Moody,Cho Chang,30,False,False,False,True
+Alastor Moody,Gilderoy Lockhart,29,False,False,True,False
+Cho Chang,Percy Weasley,29,False,False,True,False
+Angelina Johnson,Neville Longbottom,29,False,False,False,True
+Angelina Johnson,Severus Snape,29,False,False,False,True
+Ginevra Weasley,Oliver Wood,29,False,False,True,False
+Ginevra Weasley,Gregory Goyle,29,False,False,False,True
+Alastor Moody,Salazar Slytherin,29,False,True,False,False
+Ludovic Bagman,Poppy Pomfrey,28,False,False,False,True
+Dolores Umbridge,Gregory Goyle,28,False,False,False,True
+Severus Snape,Viktor Krum,28,False,False,False,True
+Cedric Diggory,Father Christmas,27,True,True,False,False
+Alastor Moody,Dean Thomas,27,False,False,False,True
+Dolores Umbridge,Rowena Ravenclaw,27,False,True,False,False
+Poppy Pomfrey,Salazar Slytherin,27,False,True,False,False
+Dolores Umbridge,Oliver Wood,27,False,False,True,False
+Fred Weasley,Rita Skeeter,27,False,False,False,True
+Filius Flitwick,Poppy Pomfrey,27,False,False,False,True
+Colin Creevey,Dolores Umbridge,26,False,False,False,True
+Dobby,Salazar Slytherin,26,False,True,False,False
+Fred Weasley,Prime Minister,26,False,False,False,True
+Ludovic Bagman,Neville Longbottom,26,False,False,False,True
+Godric Gryffindor,Ludovic Bagman,26,False,True,False,False
+Poppy Pomfrey,Vincent Crabbe,26,False,False,False,True
+George Weasley,Parvati Patil,26,False,False,False,True
+Fleur Delacour,Sirius Black,26,True,False,False,False
+Draco Malfoy,Hedwig,26,False,False,False,True
+Lucius Malfoy,Neville Longbottom,26,False,False,False,True
+Gregory Goyle,Sirius Black,26,True,False,False,False
+Bartemius Crouch Senior,Poppy Pomfrey,26,True,False,False,False
+Colin Creevey,Salazar Slytherin,26,False,True,False,False
+Remus Lupin,Salazar Slytherin,26,False,True,False,False
+Alastor Moody,Sybill Trelawney,26,False,False,False,True
+Cornelius Fudge,Salazar Slytherin,25,False,True,False,False
+Argus Filch,Cornelius Fudge,25,False,False,False,True
+Cornelius Fudge,Dobby,25,False,False,False,True
+Cedric Diggory,Remus Lupin,25,True,False,False,False
+Cornelius Fudge,Gilderoy Lockhart,25,False,False,True,False
+Draco Malfoy,Fleur Delacour,25,False,False,False,True
+Bartemius Crouch Senior,Remus Lupin,25,True,False,False,False
+George Weasley,Prime Minister,25,False,False,False,True
+Angelina Johnson,Helga Hufflepuff,25,False,True,False,False
+Gregory Goyle,Poppy Pomfrey,25,False,False,False,True
+Albus Dumbledore,Alicia Spinnet,25,False,False,False,True
+Albus Dumbledore,Lavender Brown,25,False,False,False,True
+Parvati Patil,Sirius Black,25,True,False,False,False
+Father Christmas,Lucius Malfoy,25,False,True,False,False
+Alicia Spinnet,Rubeus Hagrid,25,False,False,False,True
+Cedric Diggory,Gilderoy Lockhart,24,True,False,True,False
+Alastor Moody,Helga Hufflepuff,24,False,True,False,False
+Draco Malfoy,Mungo Bonham,24,False,False,False,True
+Minerva McGonagall,Rita Skeeter,24,False,False,False,True
+Father Christmas,Hedwig,24,False,True,False,False
+Argus Filch,Molly Weasley,24,False,False,False,True
+Poppy Pomfrey,Sybill Trelawney,24,False,False,False,True
+Gregory Goyle,Percy Weasley,24,False,False,True,False
+Father Christmas,Poppy Pomfrey,24,False,True,False,False
+Percy Weasley,Vincent Crabbe,24,False,False,True,False
+Percy Weasley,Sybill Trelawney,24,False,False,True,False
+Argus Filch,Seamus Finnigan,24,False,False,False,True
+Filius Flitwick,Molly Weasley,24,False,False,False,True
+Alicia Spinnet,Neville Longbottom,24,False,False,False,True
+Molly Weasley,Salazar Slytherin,24,False,True,False,False
+Dean Thomas,Oliver Wood,24,False,False,True,False
+Filius Flitwick,Vincent Crabbe,24,False,False,False,True
+Nymphadora Tonks,Percy Weasley,24,False,False,True,False
+Dobby,Remus Lupin,24,False,False,False,True
+Mungo Bonham,Tom Riddle,24,False,False,False,True
+Dean Thomas,Pansy Parkinson,24,False,False,False,True
+Dolores Umbridge,Viktor Krum,24,False,False,False,True
+Rolanda Hooch,Rubeus Hagrid,24,False,False,False,True
+Justin Finch-Fletchley,Minerva McGonagall,24,False,False,False,True
+Dobby,Poppy Pomfrey,24,False,False,False,True
+George Weasley,Pansy Parkinson,23,False,False,False,True
+George Weasley,Igor Karkaroff,23,False,False,False,True
+Bartemius Crouch Senior,Dolores Umbridge,23,True,False,False,False
+Dobby,Gilderoy Lockhart,23,False,False,True,False
+Father Christmas,Seamus Finnigan,23,False,True,False,False
+Lee Jordan,Rubeus Hagrid,23,False,False,False,True
+Cedric Diggory,Lee Jordan,23,True,False,False,False
+George Weasley,Olympe Maxime,23,False,False,False,True
+Cedric Diggory,Luna Lovegood,23,True,False,False,False
+Albus Dumbledore,Marcus Flint,23,False,False,False,True
+Godric Gryffindor,Rita Skeeter,23,False,True,False,False
+Albus Dumbledore,Peeves,23,False,False,False,True
+Parvati Patil,Salazar Slytherin,23,False,True,False,False
+Dobby,Ludovic Bagman,23,False,False,False,True
+Luna Lovegood,Oliver Wood,23,False,False,True,False
+Argus Filch,Dean Thomas,23,False,False,False,True
+Fred Weasley,Lavender Brown,23,False,False,False,True
+Mungo Bonham,Remus Lupin,23,False,False,False,True
+Ginevra Weasley,Prime Minister,23,False,False,False,True
+Filius Flitwick,Helga Hufflepuff,23,False,True,False,False
+Ginevra Weasley,Rita Skeeter,23,False,False,False,True
+Cho Chang,Vincent Crabbe,23,False,False,False,True
+Severus Snape,Vernon Dursley,23,False,False,False,True
+Dolores Umbridge,Nymphadora Tonks,23,False,False,False,True
+Godric Gryffindor,Lucius Malfoy,23,False,True,False,False
+Cho Chang,Colin Creevey,23,False,False,False,True
+Fleur Delacour,Tom Riddle,23,False,False,False,True
+Ernest Macmillan,Rubeus Hagrid,23,False,False,False,True
+Dobby,Molly Weasley,23,False,False,False,True
+Fred Weasley,Olympe Maxime,23,False,False,False,True
+Sybill Trelawney,Vincent Crabbe,22,False,False,False,True
+Rolanda Hooch,Severus Snape,22,False,False,False,True
+Ginevra Weasley,Justin Finch-Fletchley,22,False,False,False,True
+Alastor Moody,Colin Creevey,22,False,False,False,True
+Gilderoy Lockhart,Helga Hufflepuff,22,False,True,True,False
+Bartemius Crouch Senior,Salazar Slytherin,22,True,True,False,False
+Cho Chang,Remus Lupin,22,False,False,False,True
+Colin Creevey,Helga Hufflepuff,22,False,True,False,False
+Cedric Diggory,Dobby,22,True,False,False,False
+Draco Malfoy,Pomona Sprout,22,False,False,False,True
+Alastor Moody,Oliver Wood,22,False,False,True,False
+Rowena Ravenclaw,Vincent Crabbe,22,False,True,False,False
+Dean Thomas,Percy Weasley,22,False,False,True,False
+Cornelius Fudge,Vincent Crabbe,22,False,False,False,True
+Colin Creevey,Sirius Black,22,True,False,False,False
+Alicia Spinnet,Cho Chang,22,False,False,False,True
+Angelina Johnson,Argus Filch,22,False,False,False,True
+Oliver Wood,Tom Riddle,22,False,False,True,False
+Fred Weasley,Justin Finch-Fletchley,22,False,False,False,True
+Molly Weasley,Viktor Krum,22,False,False,False,True
+Angelina Johnson,Sirius Black,22,True,False,False,False
+Angelina Johnson,Tom Riddle,22,False,False,False,True
+Dolores Umbridge,Justin Finch-Fletchley,22,False,False,False,True
+Dolores Umbridge,Ludovic Bagman,22,False,False,False,True
+Minerva McGonagall,Nymphadora Tonks,22,False,False,False,True
+Argus Filch,Oliver Wood,22,False,False,True,False
+Dean Thomas,Poppy Pomfrey,22,False,False,False,True
+Parvati Patil,Tom Riddle,22,False,False,False,True
+Gilderoy Lockhart,Sybill Trelawney,22,False,False,True,False
+George Weasley,Justin Finch-Fletchley,22,False,False,False,True
+Cedric Diggory,Parvati Patil,22,True,False,False,False
+Cho Chang,Gregory Goyle,22,False,False,False,True
+Remus Lupin,Vernon Dursley,22,False,False,False,True
+Cornelius Fudge,Sybill Trelawney,22,False,False,False,True
+Lavender Brown,Severus Snape,22,False,False,False,True
+Helga Hufflepuff,Vincent Crabbe,22,False,True,False,False
+Igor Karkaroff,Neville Longbottom,22,False,False,False,True
+Lee Jordan,Rolanda Hooch,22,False,False,False,True
+Bartemius Crouch Senior,Cho Chang,22,True,False,False,False
+Alastor Moody,Rowena Ravenclaw,22,False,True,False,False
+Katie Bell,Neville Longbottom,22,False,False,False,True
+Cho Chang,Gilderoy Lockhart,21,False,False,True,False
+Filius Flitwick,Lucius Malfoy,21,False,False,False,True
+Ernest Macmillan,Severus Snape,21,False,False,False,True
+Father Christmas,Ludovic Bagman,21,False,True,False,False
+Cho Chang,Sybill Trelawney,21,False,False,False,True
+Cedric Diggory,Rolanda Hooch,21,True,False,False,False
+Filius Flitwick,Gregory Goyle,21,False,False,False,True
+Lee Jordan,Sirius Black,21,True,False,False,False
+Buckbeak,Minerva McGonagall,21,False,False,False,True
+Parvati Patil,Percy Weasley,21,False,False,True,False
+Cornelius Fudge,Hedwig,21,False,False,False,True
+Dolores Umbridge,Marcus Flint,21,False,False,False,True
+Luna Lovegood,Poppy Pomfrey,21,False,False,False,True
+Angelina Johnson,Rowena Ravenclaw,21,False,True,False,False
+Neville Longbottom,Rolanda Hooch,21,False,False,False,True
+Cornelius Fudge,Seamus Finnigan,21,False,False,False,True
+Oliver Wood,Poppy Pomfrey,21,False,False,True,False
+Oliver Wood,Seamus Finnigan,21,False,False,True,False
+Alicia Spinnet,Gregory Goyle,21,False,False,False,True
+Ludovic Bagman,Remus Lupin,21,False,False,False,True
+Parvati Patil,Poppy Pomfrey,21,False,False,False,True
+Peeves,Salazar Slytherin,21,False,True,False,False
+Poppy Pomfrey,Seamus Finnigan,21,False,False,False,True
+Dean Thomas,Rowena Ravenclaw,21,False,True,False,False
+Rowena Ravenclaw,Seamus Finnigan,21,False,True,False,False
+Rowena Ravenclaw,Viktor Krum,21,False,True,False,False
+Salazar Slytherin,Sybill Trelawney,21,False,True,False,False
+Dean Thomas,Filius Flitwick,21,False,False,False,True
+Ludovic Bagman,Salazar Slytherin,21,False,True,False,False
+Luna Lovegood,Percy Weasley,21,False,False,True,False
+Lucius Malfoy,Poppy Pomfrey,21,False,False,False,True
+Colin Creevey,Rowena Ravenclaw,21,False,True,False,False
+Colin Creevey,Gregory Goyle,21,False,False,False,True
+Ernest Macmillan,George Weasley,21,False,False,False,True
+Buckbeak,Fred Weasley,21,False,False,False,True
+Ginevra Weasley,Peeves,21,False,False,False,True
+Ernest Macmillan,Fred Weasley,21,False,False,False,True
+Godric Gryffindor,Prime Minister,21,False,True,False,False
+Draco Malfoy,Vernon Dursley,21,False,False,False,True
+Draco Malfoy,Olympe Maxime,21,False,False,False,True
+Bartemius Crouch Senior,Vincent Crabbe,21,True,False,False,False
+Lee Jordan,Vincent Crabbe,21,False,False,False,True
+Hedwig,Poppy Pomfrey,21,False,False,False,True
+Dolores Umbridge,William Weasley,21,False,False,False,True
+Bartemius Crouch Senior,Filius Flitwick,21,True,False,False,False
+Katie Bell,Vincent Crabbe,21,False,False,False,True
+Arthur Weasley,Ludovic Bagman,21,False,False,False,True
+Lee Jordan,Poppy Pomfrey,21,False,False,False,True
+Cho Chang,Molly Weasley,21,False,False,False,True
+Crookshanks,Draco Malfoy,20,False,False,False,True
+Dobby,Parvati Patil,20,False,False,False,True
+Cornelius Fudge,Dean Thomas,20,False,False,False,True
+Cornelius Fudge,Rowena Ravenclaw,20,False,True,False,False
+Dobby,Filius Flitwick,20,False,False,False,True
+Dobby,Vincent Crabbe,20,False,False,False,True
+Cornelius Fudge,Fleur Delacour,20,False,False,False,True
+Colin Creevey,Filius Flitwick,20,False,False,False,True
+Dean Thomas,Hedwig,20,False,False,False,True
+Viktor Krum,William Weasley,20,False,False,False,True
+Argus Filch,Viktor Krum,20,False,False,False,True
+Lucius Malfoy,William Weasley,20,False,False,False,True
+Helga Hufflepuff,Sybill Trelawney,20,False,True,False,False
+Bartemius Crouch Senior,Lucius Malfoy,20,True,False,False,False
+Igor Karkaroff,Molly Weasley,20,False,False,False,True
+Parvati Patil,Vincent Crabbe,20,False,False,False,True
+Lavender Brown,Sirius Black,20,True,False,False,False
+Lee Jordan,Neville Longbottom,20,False,False,False,True
+Argus Filch,William Weasley,20,False,False,False,True
+Father Christmas,Parvati Patil,20,False,True,False,False
+Alicia Spinnet,Helga Hufflepuff,20,False,True,False,False
+Neville Longbottom,Rita Skeeter,20,False,False,False,True
+Pansy Parkinson,Sirius Black,20,True,False,False,False
+Argus Filch,Lucius Malfoy,20,False,False,False,True
+Argus Filch,Helga Hufflepuff,20,False,True,False,False
+Molly Weasley,Olympe Maxime,20,False,False,False,True
+Molly Weasley,Prime Minister,20,False,False,False,True
+Angelina Johnson,Father Christmas,20,False,True,False,False
+Oliver Wood,Pansy Parkinson,20,False,False,True,False
+Angelina Johnson,Gilderoy Lockhart,20,False,False,True,False
+Pomona Sprout,Sirius Black,20,True,False,False,False
+Poppy Pomfrey,Rita Skeeter,20,False,False,False,True
+Ginevra Weasley,Pansy Parkinson,20,False,False,False,True
+Ginevra Weasley,Pomona Sprout,20,False,False,False,True
+Fred Weasley,Pomona Sprout,20,False,False,False,True
+George Weasley,Lavender Brown,20,False,False,False,True
+George Weasley,Pomona Sprout,20,False,False,False,True
+Gilderoy Lockhart,Oliver Wood,20,False,False,True,False
+Gilderoy Lockhart,Rowena Ravenclaw,20,False,True,True,False
+Gilderoy Lockhart,William Weasley,20,False,False,True,False
+Ginevra Weasley,Igor Karkaroff,20,False,False,False,True
+Ginevra Weasley,Marcus Flint,20,False,False,False,True
+Buckbeak,George Weasley,20,False,False,False,True
+Mungo Bonham,Rubeus Hagrid,20,False,False,False,True
+Gregory Goyle,Helga Hufflepuff,20,False,True,False,False
+Rolanda Hooch,Sirius Black,20,True,False,False,False
+Dean Thomas,Lee Jordan,20,False,False,False,True
+Alastor Moody,Luna Lovegood,20,False,False,False,True
+Gregory Goyle,Sybill Trelawney,20,False,False,False,True
+Seamus Finnigan,Sybill Trelawney,19,False,False,False,True
+Remus Lupin,Rowena Ravenclaw,19,False,True,False,False
+Seamus Finnigan,Vincent Crabbe,19,False,False,False,True
+Peeves,Poppy Pomfrey,19,False,False,False,True
+Oliver Wood,Viktor Krum,19,False,False,True,False
+Dobby,Helga Hufflepuff,19,False,True,False,False
+Dean Thomas,Ludovic Bagman,19,False,False,False,True
+Oliver Wood,Sybill Trelawney,19,False,False,True,False
+Rita Skeeter,Salazar Slytherin,19,False,True,False,False
+Remus Lupin,Viktor Krum,19,False,False,False,True
+Father Christmas,Lee Jordan,19,False,True,False,False
+Dobby,Rowena Ravenclaw,19,False,True,False,False
+Draco Malfoy,Fat Lady,19,False,False,False,True
+Ernest Macmillan,Salazar Slytherin,19,False,True,False,False
+Ernest Macmillan,Poppy Pomfrey,19,False,False,False,True
+Godric Gryffindor,Igor Karkaroff,19,False,True,False,False
+Gregory Goyle,Lee Jordan,19,False,False,False,True
+Gregory Goyle,Rowena Ravenclaw,19,False,True,False,False
+Gregory Goyle,Seamus Finnigan,19,False,False,False,True
+Hedwig,Seamus Finnigan,19,False,False,False,True
+Helga Hufflepuff,Katie Bell,19,False,True,False,False
+Helga Hufflepuff,Molly Weasley,19,False,True,False,False
+Molly Weasley,Seamus Finnigan,19,False,False,False,True
+Justin Finch-Fletchley,Oliver Wood,19,False,False,True,False
+Justin Finch-Fletchley,Tom Riddle,19,False,False,False,True
+Katie Bell,Sirius Black,19,True,False,False,False
+Ludovic Bagman,Seamus Finnigan,19,False,False,False,True
+Ludovic Bagman,Sybill Trelawney,19,False,False,False,True
+Ludovic Bagman,Vincent Crabbe,19,False,False,False,True
+Molly Weasley,Oliver Wood,19,False,False,True,False
+Dobby,Sybill Trelawney,19,False,False,False,True
+Dean Thomas,Lucius Malfoy,19,False,False,False,True
+Fat Lady,Remus Lupin,19,False,False,False,True
+Dean Thomas,Katie Bell,19,False,False,False,True
+Cassius Warrington,Draco Malfoy,19,False,False,False,True
+Bartemius Crouch Senior,Gregory Goyle,19,True,False,False,False
+Alastor Moody,Angelina Johnson,19,False,False,False,True
+Bartemius Crouch Senior,Sybill Trelawney,19,True,False,False,False
+Alicia Spinnet,Graham Montague,19,False,False,False,True
+Alicia Spinnet,Gilderoy Lockhart,19,False,False,True,False
+Colin Creevey,Dean Thomas,19,False,False,False,True
+Cornelius Fudge,Gregory Goyle,19,False,False,False,True
+Buckbeak,Molly Weasley,19,False,False,False,True
+Buckbeak,Neville Longbottom,19,False,False,False,True
+Cassius Warrington,Hermione Granger,19,False,False,False,True
+Bartemius Crouch Senior,Dean Thomas,19,True,False,False,False
+Cedric Diggory,Justin Finch-Fletchley,19,True,False,False,False
+Cedric Diggory,Marcus Flint,19,True,False,False,False
+Cedric Diggory,Prime Minister,19,True,False,False,False
+Cedric Diggory,Sybill Trelawney,19,True,False,False,False
+Cedric Diggory,Vernon Dursley,19,True,False,False,False
+Albus Dumbledore,Crookshanks,19,False,False,False,True
+Charles Weasley,Sirius Black,19,True,False,False,False
+Cho Chang,Olympe Maxime,19,False,False,False,True
+Alastor Moody,Pansy Parkinson,19,False,False,False,True
+Bartemius Crouch Senior,Gilderoy Lockhart,19,True,False,True,False
+Cho Chang,William Weasley,19,False,False,False,True
+Argus Filch,Prime Minister,19,False,False,False,True
+Arthur Weasley,Poppy Pomfrey,19,False,False,False,True
+Crookshanks,Tom Riddle,19,False,False,False,True
+Argus Filch,Hedwig,19,False,False,False,True
+Crookshanks,Sybill Trelawney,19,False,False,False,True
+Angelina Johnson,Remus Lupin,19,False,False,False,True
+Argus Filch,Rowena Ravenclaw,19,False,True,False,False
+Angelina Johnson,Viktor Krum,19,False,False,False,True
+George Weasley,Peter Pettigrew,18,False,False,False,True
+Argus Filch,Pansy Parkinson,18,False,False,False,True
+George Weasley,Mrs Norris,18,False,False,False,True
+Argus Filch,Igor Karkaroff,18,False,False,False,True
+Argus Filch,Olympe Maxime,18,False,False,False,True
+Cedric Diggory,Pomona Sprout,18,True,False,False,False
+Luna Lovegood,Pansy Parkinson,18,False,False,False,True
+Marcus Flint,Neville Longbottom,18,False,False,False,True
+Cedric Diggory,Charles Weasley,18,True,False,False,False
+Gilderoy Lockhart,Hedwig,18,False,False,True,False
+Fred Weasley,Peter Pettigrew,18,False,False,False,True
+Argus Filch,Justin Finch-Fletchley,18,False,False,False,True
+Cedric Diggory,Lucius Malfoy,18,True,False,False,False
+Neville Longbottom,Vernon Dursley,18,False,False,False,True
+Fleur Delacour,Poppy Pomfrey,18,False,False,False,True
+Filius Flitwick,Viktor Krum,18,False,False,False,True
+Pigwidgeon,Rubeus Hagrid,18,False,False,False,True
+Filius Flitwick,Hedwig,18,False,False,False,True
+Prime Minister,Salazar Slytherin,18,False,True,False,False
+Father Christmas,Viktor Krum,18,False,True,False,False
+Father Christmas,Rolanda Hooch,18,False,True,False,False
+Cho Chang,Justin Finch-Fletchley,18,False,False,False,True
+Molly Weasley,Rowena Ravenclaw,18,False,True,False,False
+Father Christmas,Igor Karkaroff,18,False,True,False,False
+Cho Chang,Rolanda Hooch,18,False,False,False,True
+Alastor Moody,Peter Pettigrew,18,False,False,False,True
+Fat Lady,George Weasley,18,False,False,False,True
+Fat Lady,Fred Weasley,18,False,False,False,True
+Filius Flitwick,Parvati Patil,18,False,False,False,True
+Petunia Dursley,Rubeus Hagrid,18,False,False,False,True
+Gilderoy Lockhart,Nymphadora Tonks,18,False,False,True,False
+Bellatrix Lestrange,Fred Weasley,18,False,False,False,True
+Kreacher,Lucius Malfoy,18,False,False,False,True
+Angelina Johnson,Filius Flitwick,18,False,False,False,True
+Lee Jordan,Luna Lovegood,18,False,False,False,True
+Alicia Spinnet,Sirius Black,18,True,False,False,False
+Lee Jordan,Parvati Patil,18,False,False,False,True
+Angelina Johnson,Molly Weasley,18,False,False,False,True
+Olympe Maxime,Seamus Finnigan,18,False,False,False,True
+Helga Hufflepuff,Ludovic Bagman,18,False,True,False,False
+Hedwig,Salazar Slytherin,18,False,True,False,False
+Pansy Parkinson,Seamus Finnigan,18,False,False,False,True
+Hedwig,Ludovic Bagman,18,False,False,False,True
+Bartemius Crouch Senior,Seamus Finnigan,18,True,False,False,False
+Angelina Johnson,Percy Weasley,18,False,False,True,False
+Alicia Spinnet,Dean Thomas,18,False,False,False,True
+Gilderoy Lockhart,Parvati Patil,18,False,False,True,False
+Alicia Spinnet,Argus Filch,18,False,False,False,True
+Godric Gryffindor,Vernon Dursley,18,False,True,False,False
+Godric Gryffindor,Roger Davies,18,False,True,False,False
+Peeves,Tom Riddle,18,False,False,False,True
+Mungo Bonham,Percy Weasley,18,False,False,True,False
+Bertha Jorkins,Hermione Granger,18,True,False,False,False
+Percy Weasley,Pomona Sprout,18,False,False,True,False
+Buckbeak,Cornelius Fudge,18,False,False,False,True
+Buckbeak,Ginevra Weasley,18,False,False,False,True
+Buckbeak,Godric Gryffindor,18,False,True,False,False
+Lucius Malfoy,Sybill Trelawney,18,False,False,False,True
+Argus Filch,Sybill Trelawney,18,False,False,False,True
+Kreacher,Percy Weasley,18,False,False,True,False
+Godric Gryffindor,Terry Boot,18,False,True,False,False
+Gilderoy Lockhart,Ludovic Bagman,18,False,False,True,False
+Dobby,Oliver Wood,18,False,False,True,False
+Cornelius Fudge,Oliver Wood,18,False,False,True,False
+Dolores Umbridge,Vernon Dursley,18,False,False,False,True
+Cuthbert Binns,Godric Gryffindor,18,False,True,False,False
+Dobby,Prime Minister,18,False,False,False,True
+Dolores Umbridge,Rita Skeeter,18,False,False,False,True
+Salazar Slytherin,William Weasley,18,False,True,False,False
+Cornelius Fudge,Helga Hufflepuff,18,False,True,False,False
+Dobby,Rita Skeeter,18,False,False,False,True
+Alastor Moody,Buckbeak,18,False,False,False,True
+Ernest Macmillan,Oliver Wood,18,False,False,True,False
+Colin Creevey,Peeves,18,False,False,False,True
+Crookshanks,Minerva McGonagall,18,False,False,False,True
+Rolanda Hooch,Tom Riddle,18,False,False,False,True
+Dobby,Gregory Goyle,18,False,False,False,True
+Draco Malfoy,Padma Patil,18,False,False,False,True
+Colin Creevey,Molly Weasley,18,False,False,False,True
+Dolores Umbridge,Fleur Delacour,18,False,False,False,True
+Lavender Brown,Vincent Crabbe,17,False,False,False,True
+Cedric Diggory,Peeves,17,True,False,False,False
+Mungo Bonham,Vincent Crabbe,17,False,False,False,True
+Fred Weasley,Sorting Hat,17,False,False,False,True
+Katie Bell,Percy Weasley,17,False,False,True,False
+Bartemius Crouch Senior,Colin Creevey,17,True,False,False,False
+Peter Pettigrew,Poppy Pomfrey,17,False,False,False,True
+Colin Creevey,Sybill Trelawney,17,False,False,False,True
+Gilderoy Lockhart,Rolanda Hooch,17,False,False,True,False
+Kingsley Shacklebolt,Poppy Pomfrey,17,False,False,False,True
+Dobby,Peeves,17,False,False,False,True
+Cornelius Fudge,Parvati Patil,17,False,False,False,True
+Kreacher,Minerva McGonagall,17,False,False,False,True
+Angelina Johnson,Lavender Brown,17,False,False,False,True
+Draco Malfoy,Hannah Abbott,17,False,False,False,True
+Draco Malfoy,Pigwidgeon,17,False,False,False,True
+Alastor Moody,Crookshanks,17,False,False,False,True
+Nymphadora Tonks,Vincent Crabbe,17,False,False,False,True
+Colin Creevey,Viktor Krum,17,False,False,False,True
+Lavender Brown,Percy Weasley,17,False,False,True,False
+Draco Malfoy,Merlin,17,False,True,False,False
+Draco Malfoy,Mundungus Fletcher,17,False,False,False,True
+Sirius Black,Winky,17,True,False,False,False
+Buckbeak,William Weasley,17,False,False,False,True
+Justin Finch-Fletchley,Sirius Black,17,True,False,False,False
+Alastor Moody,Charles Weasley,17,False,False,False,True
+Gregory Goyle,Luna Lovegood,17,False,False,False,True
+Pansy Parkinson,Remus Lupin,17,False,False,False,True
+Dolores Umbridge,Fat Lady,17,False,False,False,True
+Hedwig,Vincent Crabbe,17,False,False,False,True
+Hedwig,William Weasley,17,False,False,False,True
+Hedwig,Helga Hufflepuff,17,False,True,False,False
+Pansy Parkinson,Poppy Pomfrey,17,False,False,False,True
+Gregory Goyle,Rolanda Hooch,17,False,False,False,True
+Bartemius Crouch Senior,Nymphadora Tonks,17,True,False,False,False
+Bartemius Crouch Senior,Mungo Bonham,17,True,False,False,False
+Olympe Maxime,William Weasley,17,False,False,False,True
+Gregory Goyle,Peeves,17,False,False,False,True
+Gregory Goyle,Parvati Patil,17,False,False,False,True
+Helga Hufflepuff,Rita Skeeter,17,False,True,False,False
+Gregory Goyle,Ludovic Bagman,17,False,False,False,True
+Lee Jordan,Seamus Finnigan,17,False,False,False,True
+Olympe Maxime,Salazar Slytherin,17,False,True,False,False
+Bartemius Crouch Senior,Helga Hufflepuff,17,True,True,False,False
+Cornelius Fudge,Mundungus Fletcher,17,False,False,False,True
+Graham Montague,Oliver Wood,17,False,False,True,False
+Igor Karkaroff,Lucius Malfoy,17,False,False,False,True
+Igor Karkaroff,Poppy Pomfrey,17,False,False,False,True
+Igor Karkaroff,Seamus Finnigan,17,False,False,False,True
+Dolores Umbridge,Olympe Maxime,17,False,False,False,True
+Alicia Spinnet,Percy Weasley,17,False,False,True,False
+Percy Weasley,Rolanda Hooch,17,False,False,True,False
+Justin Finch-Fletchley,Rowena Ravenclaw,17,False,True,False,False
+Buckbeak,Father Christmas,17,False,True,False,False
+Alicia Spinnet,Tom Riddle,17,False,False,False,True
+Draco Malfoy,Sorting Hat,17,False,False,False,True
+Bellatrix Lestrange,George Weasley,17,False,False,False,True
+Rowena Ravenclaw,Sybill Trelawney,17,False,True,False,False
+Cho Chang,Lavender Brown,17,False,False,False,True
+Argus Filch,Parvati Patil,17,False,False,False,True
+Dean Thomas,Rolanda Hooch,17,False,False,False,True
+Filius Flitwick,Igor Karkaroff,17,False,False,False,True
+Charles Weasley,Tom Riddle,17,False,False,False,True
+Argus Filch,Lee Jordan,17,False,False,False,True
+Marcus Flint,Rowena Ravenclaw,17,False,True,False,False
+Father Christmas,Vernon Dursley,17,False,True,False,False
+Cho Chang,Igor Karkaroff,17,False,False,False,True
+Colin Creevey,Hedwig,17,False,False,False,True
+Father Christmas,Rita Skeeter,17,False,True,False,False
+Marcus Flint,Sirius Black,17,True,False,False,False
+Marcus Flint,Tom Riddle,17,False,False,False,True
+Father Christmas,Peter Pettigrew,17,False,True,False,False
+Cho Chang,Lucius Malfoy,17,False,False,False,True
+Vernon Dursley,William Weasley,17,False,False,False,True
+Minerva McGonagall,Pigwidgeon,17,False,False,False,True
+Cuthbert Binns,Rubeus Hagrid,17,False,False,False,True
+Dean Thomas,Olympe Maxime,17,False,False,False,True
+Ernest Macmillan,Luna Lovegood,17,False,False,False,True
+Remus Lupin,Rita Skeeter,17,False,False,False,True
+Remus Lupin,Rolanda Hooch,17,False,False,False,True
+Argus Filch,Ernest Macmillan,17,False,False,False,True
+Fat Lady,Poppy Pomfrey,17,False,False,False,True
+Roger Davies,Salazar Slytherin,17,False,True,False,False
+Alastor Moody,Peeves,17,False,False,False,True
+Argus Filch,Arthur Weasley,17,False,False,False,True
+Fang,Fred Weasley,17,False,False,False,True
+Ernest Macmillan,Sirius Black,17,True,False,False,False
+Mrs Norris,Sirius Black,17,True,False,False,False
+Dobby,Viktor Krum,17,False,False,False,True
+Charles Weasley,Neville Longbottom,17,False,False,False,True
+Filius Flitwick,Peeves,17,False,False,False,True
+Arthur Weasley,Cedric Diggory,17,True,False,False,False
+Lucius Malfoy,Luna Lovegood,17,False,False,False,True
+Lucius Malfoy,Ludovic Bagman,17,False,False,False,True
+Charles Weasley,Ludovic Bagman,17,False,False,False,True
+Dudley Dursley,Percy Weasley,17,False,False,True,False
+Filius Flitwick,Vernon Dursley,17,False,False,False,True
+Poppy Pomfrey,Rolanda Hooch,17,False,False,False,True
+Lucius Malfoy,Seamus Finnigan,17,False,False,False,True
+Lee Jordan,Tom Riddle,17,False,False,False,True
+Pomona Sprout,Salazar Slytherin,17,False,True,False,False
+Pomona Sprout,Remus Lupin,17,False,False,False,True
+Filius Flitwick,Olympe Maxime,17,False,False,False,True
+Bartemius Crouch Senior,Oliver Wood,16,True,False,True,False
+Dean Thomas,Igor Karkaroff,16,False,False,False,True
+Angelina Johnson,Lucius Malfoy,16,False,False,False,True
+Minerva McGonagall,Roger Davies,16,False,False,False,True
+Hedwig,Viktor Krum,16,False,False,False,True
+Argus Filch,Fleur Delacour,16,False,False,False,True
+Arthur Weasley,Filius Flitwick,16,False,False,False,True
+Alastor Moody,Bellatrix Lestrange,16,False,False,False,True
+Lee Jordan,Pansy Parkinson,16,False,False,False,True
+Pansy Parkinson,Percy Weasley,16,False,False,True,False
+Cuthbert Binns,Tom Riddle,16,False,False,False,True
+Dobby,Lee Jordan,16,False,False,False,True
+Dobby,Mungo Bonham,16,False,False,False,True
+Argus Filch,Buckbeak,16,False,False,False,True
+Arthur Weasley,Kreacher,16,False,False,False,True
+Lucius Malfoy,Oliver Wood,16,False,False,True,False
+Molly Weasley,Pansy Parkinson,16,False,False,False,True
+Molly Weasley,Parvati Patil,16,False,False,False,True
+Cornelius Fudge,Peeves,16,False,False,False,True
+Molly Weasley,Petunia Dursley,16,False,False,False,True
+Dean Thomas,Peeves,16,False,False,False,True
+Ludovic Bagman,Rowena Ravenclaw,16,False,True,False,False
+Minerva McGonagall,Mundungus Fletcher,16,False,False,False,True
+Sirius Black,Sorting Hat,16,True,False,False,False
+Barry Ryan,Ronald Weasley,16,False,False,False,True
+Argus Filch,Rita Skeeter,16,False,False,False,True
+Crookshanks,Dolores Umbridge,16,False,False,False,True
+Ludovic Bagman,Oliver Wood,16,False,False,True,False
+Katie Bell,Tom Riddle,16,False,False,False,True
+Vernon Dursley,Viktor Krum,16,False,False,False,True
+Cuthbert Binns,Ginevra Weasley,16,False,False,False,True
+Viktor Krum,Vincent Crabbe,16,False,False,False,True
+Bartemius Crouch Senior,Crookshanks,16,True,False,False,False
+Tom Riddle,Winky,16,False,False,False,True
+Kreacher,Nymphadora Tonks,16,False,False,False,True
+Marcus Flint,Percy Weasley,16,False,False,True,False
+Crookshanks,Poppy Pomfrey,16,False,False,False,True
+Sybill Trelawney,William Weasley,16,False,False,False,True
+Kreacher,Poppy Pomfrey,16,False,False,False,True
+Justin Finch-Fletchley,Remus Lupin,16,False,False,False,True
+Alastor Moody,Alicia Spinnet,16,False,False,False,True
+Bartemius Crouch Senior,Fat Lady,16,True,False,False,False
+Olympe Maxime,Remus Lupin,16,False,False,False,True
+Igor Karkaroff,William Weasley,16,False,False,False,True
+Olympe Maxime,Rowena Ravenclaw,16,False,True,False,False
+Lavender Brown,Salazar Slytherin,16,False,True,False,False
+Arthur Weasley,Vincent Crabbe,16,False,False,False,True
+Merlin,Minerva McGonagall,16,False,True,False,False
+Kingsley Shacklebolt,Mungo Bonham,16,False,False,False,True
+Marcus Flint,Remus Lupin,16,False,False,False,True
+Colin Creevey,Cornelius Fudge,16,False,False,False,True
+Cedric Diggory,Hedwig,16,True,False,False,False
+Gilderoy Lockhart,Luna Lovegood,16,False,False,True,False
+Fleur Delacour,Lee Jordan,16,False,False,False,True
+Albus Dumbledore,Cassius Warrington,16,False,False,False,True
+Fleur Delacour,Parvati Patil,16,False,False,False,True
+Dudley Dursley,Minerva McGonagall,16,False,False,False,True
+Fleur Delacour,Vincent Crabbe,16,False,False,False,True
+Charles Weasley,Helga Hufflepuff,16,False,True,False,False
+Alastor Moody,Ernest Macmillan,16,False,False,False,True
+Colin Creevey,Marcus Flint,16,False,False,False,True
+Cedric Diggory,Nymphadora Tonks,16,True,False,False,False
+Pigwidgeon,Tom Riddle,16,False,False,False,True
+Draco Malfoy,Roger Davies,16,False,False,False,True
+Cedric Diggory,Lavender Brown,16,True,False,False,False
+George Weasley,Merlin,16,False,True,False,False
+Hedwig,Peter Pettigrew,16,False,False,False,True
+Pigwidgeon,Severus Snape,16,False,False,False,True
+Cassius Warrington,Severus Snape,16,False,False,False,True
+Cassius Warrington,Rubeus Hagrid,16,False,False,False,True
+George Weasley,Winky,16,False,False,False,True
+Petunia Dursley,Sirius Black,16,True,False,False,False
+Gilderoy Lockhart,Lavender Brown,16,False,False,True,False
+Gilderoy Lockhart,Lee Jordan,16,False,False,True,False
+Fleur Delacour,Gregory Goyle,16,False,False,False,True
+Alastor Moody,Rolanda Hooch,16,False,False,False,True
+Filius Flitwick,Peter Pettigrew,16,False,False,False,True
+Father Christmas,Marcus Flint,16,False,True,False,False
+Ernest Macmillan,Rowena Ravenclaw,16,False,True,False,False
+Rita Skeeter,Vernon Dursley,16,False,False,False,True
+Rita Skeeter,Seamus Finnigan,16,False,False,False,True
+Ernest Macmillan,Remus Lupin,16,False,False,False,True
+Colin Creevey,Father Christmas,16,False,True,False,False
+Ernest Macmillan,Parvati Patil,16,False,False,False,True
+Alastor Moody,Petunia Dursley,16,False,False,False,True
+Alastor Moody,Kreacher,16,False,False,False,True
+Cho Chang,Marcus Flint,16,False,False,False,True
+Father Christmas,Peeves,16,False,True,False,False
+Dudley Dursley,Poppy Pomfrey,16,False,False,False,True
+Ernest Macmillan,Gilderoy Lockhart,16,False,False,True,False
+Colin Creevey,Lee Jordan,16,False,False,False,True
+Cho Chang,Hedwig,16,False,False,False,True
+Prime Minister,Rowena Ravenclaw,16,False,True,False,False
+Prime Minister,Rita Skeeter,16,False,False,False,True
+Dudley Dursley,Remus Lupin,16,False,False,False,True
+Poppy Pomfrey,Vernon Dursley,16,False,False,False,True
+Charles Weasley,Severus Snape,16,False,False,False,True
+Filius Flitwick,Mungo Bonham,16,False,False,False,True
+Mrs Norris,Percy Weasley,16,False,False,True,False
+Angelina Johnson,Seamus Finnigan,16,False,False,False,True
+Gilderoy Lockhart,Pansy Parkinson,16,False,False,True,False
+Peeves,Sybill Trelawney,16,False,False,False,True
+Cornelius Fudge,Crookshanks,16,False,False,False,True
+Bertha Jorkins,Minerva McGonagall,16,True,False,False,False
+Dolores Umbridge,Peter Pettigrew,16,False,False,False,True
+Godric Gryffindor,Mundungus Fletcher,16,False,True,False,False
+Bartemius Crouch Senior,Rowena Ravenclaw,16,True,True,False,False
+Dolores Umbridge,Graham Montague,16,False,False,False,True
+Godric Gryffindor,Pigwidgeon,16,False,True,False,False
+Cornelius Fudge,Pansy Parkinson,16,False,False,False,True
+Percy Weasley,Sorting Hat,16,False,False,True,False
+Bellatrix Lestrange,Dolores Umbridge,16,False,False,False,True
+Dolores Umbridge,Igor Karkaroff,16,False,False,False,True
+Cornelius Fudge,Kreacher,16,False,False,False,True
+Dolores Umbridge,Mundungus Fletcher,16,False,False,False,True
+Albus Dumbledore,Pigwidgeon,16,False,False,False,True
+Gregory Goyle,Nymphadora Tonks,16,False,False,False,True
+Rita Skeeter,Vincent Crabbe,16,False,False,False,True
+Dean Thomas,Justin Finch-Fletchley,16,False,False,False,True
+Alicia Spinnet,Father Christmas,16,False,True,False,False
+Gilderoy Lockhart,Prime Minister,16,False,False,True,False
+Peter Pettigrew,Prime Minister,16,False,False,False,True
+Gilderoy Lockhart,Vernon Dursley,16,False,False,True,False
+Gilderoy Lockhart,Viktor Krum,16,False,False,True,False
+Ginevra Weasley,Peter Pettigrew,16,False,False,False,True
+Cassius Warrington,Cedric Diggory,16,True,False,False,False
+Pansy Parkinson,Sybill Trelawney,16,False,False,False,True
+Albus Dumbledore,Cuthbert Binns,16,False,False,False,True
+Hedwig,Lucius Malfoy,16,False,False,False,True
+Hedwig,Oliver Wood,16,False,False,True,False
+Colin Creevey,Seamus Finnigan,16,False,False,False,True
+Dolores Umbridge,Sorting Hat,16,False,False,False,True
+Ginevra Weasley,Padma Patil,16,False,False,False,True
+Gilderoy Lockhart,Peeves,16,False,False,True,False
+Albus Dumbledore,Hannah Abbott,16,False,False,False,True
+Alastor Moody,Katie Bell,15,False,False,False,True
+Alastor Moody,Justin Finch-Fletchley,15,False,False,False,True
+Prime Minister,Seamus Finnigan,15,False,False,False,True
+Parvati Patil,Pomona Sprout,15,False,False,False,True
+Parvati Patil,Peeves,15,False,False,False,True
+Padma Patil,Rubeus Hagrid,15,False,False,False,True
+Prime Minister,Viktor Krum,15,False,False,False,True
+Alastor Moody,Marcus Flint,15,False,False,False,True
+Alicia Spinnet,Molly Weasley,15,False,False,False,True
+Prime Minister,Vincent Crabbe,15,False,False,False,True
+Quirinus Quirrell,Remus Lupin,15,False,False,False,True
+Mrs Norris,Poppy Pomfrey,15,False,False,False,True
+Quirinus Quirrell,Sirius Black,15,True,False,False,False
+Quirinus Quirrell,Salazar Slytherin,15,False,True,False,False
+Mrs Norris,Vincent Crabbe,15,False,False,False,True
+Mrs Norris,Remus Lupin,15,False,False,False,True
+Alicia Spinnet,Dobby,15,False,False,False,True
+Angelina Johnson,Hedwig,15,False,False,False,True
+Peter Pettigrew,Seamus Finnigan,15,False,False,False,True
+Alastor Moody,Cuthbert Binns,15,False,False,False,True
+Angelina Johnson,Cornelius Fudge,15,False,False,False,True
+Sorting Hat,Vincent Crabbe,15,False,False,False,True
+Oliver Wood,Prime Minister,15,False,False,True,False
+Alastor Moody,Dudley Dursley,15,False,False,False,True
+Alicia Spinnet,Sybill Trelawney,15,False,False,False,True
+Mungo Bonham,Sybill Trelawney,15,False,False,False,True
+Mungo Bonham,Salazar Slytherin,15,False,True,False,False
+Peeves,Vincent Crabbe,15,False,False,False,True
+Olympe Maxime,Prime Minister,15,False,False,False,True
+Aberforth Dumbledore,Rubeus Hagrid,15,False,False,False,True
+Albus Dumbledore,Anthony Goldstein,15,False,False,False,True
+Mundungus Fletcher,Poppy Pomfrey,15,False,False,False,True
+Peeves,Seamus Finnigan,15,False,False,False,True
+Nymphadora Tonks,Vernon Dursley,15,False,False,False,True
+Poppy Pomfrey,Sorting Hat,15,False,False,False,True
+Mrs Norris,Tom Riddle,15,False,False,False,True
+Alastor Moody,Quirinus Quirrell,15,False,False,False,True
+Alastor Moody,Pigwidgeon,15,False,False,False,True
+Alicia Spinnet,Parvati Patil,15,False,False,False,True
+Bartemius Crouch Senior,Pigwidgeon,15,True,False,False,False
+Argus Filch,Marcus Flint,15,False,False,False,True
+Fat Lady,Filius Flitwick,15,False,False,False,True
+Fat Lady,Molly Weasley,15,False,False,False,True
+Fat Lady,Prime Minister,15,False,False,False,True
+Aberforth Dumbledore,Minerva McGonagall,15,False,False,False,True
+Fat Lady,Salazar Slytherin,15,False,True,False,False
+Father Christmas,Justin Finch-Fletchley,15,False,True,False,False
+Father Christmas,Katie Bell,15,False,True,False,False
+Father Christmas,Kingsley Shacklebolt,15,False,True,False,False
+Father Christmas,Kreacher,15,False,True,False,False
+Father Christmas,Pomona Sprout,15,False,True,False,False
+Filius Flitwick,Fleur Delacour,15,False,False,False,True
+Charles Weasley,Vincent Crabbe,15,False,False,False,True
+Filius Flitwick,Katie Bell,15,False,False,False,True
+Filius Flitwick,Lavender Brown,15,False,False,False,True
+Filius Flitwick,Marcus Flint,15,False,False,False,True
+Filius Flitwick,Merlin,15,False,True,False,False
+Filius Flitwick,Mrs Norris,15,False,False,False,True
+Filius Flitwick,Nymphadora Tonks,15,False,False,False,True
+Charles Weasley,Poppy Pomfrey,15,False,False,False,True
+Filius Flitwick,Quirinus Quirrell,15,False,False,False,True
+Filius Flitwick,Rita Skeeter,15,False,False,False,True
+Fleur Delacour,Pansy Parkinson,15,False,False,False,True
+Charles Weasley,Lee Jordan,15,False,False,False,True
+Charles Weasley,Father Christmas,15,False,True,False,False
+Fred Weasley,Merlin,15,False,True,False,False
+Fred Weasley,Winky,15,False,False,False,True
+Cedric Diggory,Fat Lady,15,True,False,False,False
+Cassius Warrington,Luna Lovegood,15,False,False,False,True
+Fat Lady,Ludovic Bagman,15,False,False,False,True
+Fang,Tom Riddle,15,False,False,False,True
+Luna Lovegood,Marcus Flint,15,False,False,False,True
+Fang,Salazar Slytherin,15,False,True,False,False
+Dean Thomas,Pomona Sprout,15,False,False,False,True
+Cuthbert Binns,George Weasley,15,False,False,False,True
+Dean Thomas,Sorting Hat,15,False,False,False,True
+Dobby,Fat Lady,15,False,False,False,True
+Cuthbert Binns,Draco Malfoy,15,False,False,False,True
+Crookshanks,Vincent Crabbe,15,False,False,False,True
+Dobby,Nymphadora Tonks,15,False,False,False,True
+Dobby,Olympe Maxime,15,False,False,False,True
+Dobby,Quirinus Quirrell,15,False,False,False,True
+Crookshanks,Dobby,15,False,False,False,True
+Cornelius Fudge,Pomona Sprout,15,False,False,False,True
+Cornelius Fudge,Petunia Dursley,15,False,False,False,True
+Cornelius Fudge,Lee Jordan,15,False,False,False,True
+Colin Creevey,William Weasley,15,False,False,False,True
+Colin Creevey,Rolanda Hooch,15,False,False,False,True
+Colin Creevey,Pomona Sprout,15,False,False,False,True
+Colin Creevey,Pansy Parkinson,15,False,False,False,True
+Draco Malfoy,Winky,15,False,False,False,True
+Dudley Dursley,Godric Gryffindor,15,False,True,False,False
+Dudley Dursley,Gregory Goyle,15,False,False,False,True
+Dudley Dursley,Ludovic Bagman,15,False,False,False,True
+Dudley Dursley,Severus Snape,15,False,False,False,True
+Ernest Macmillan,Filius Flitwick,15,False,False,False,True
+Ernest Macmillan,Katie Bell,15,False,False,False,True
+Ernest Macmillan,Pansy Parkinson,15,False,False,False,True
+Ernest Macmillan,Seamus Finnigan,15,False,False,False,True
+Fang,George Weasley,15,False,False,False,True
+Gilderoy Lockhart,Katie Bell,15,False,False,True,False
+Gilderoy Lockhart,Peter Pettigrew,15,False,False,True,False
+Gilderoy Lockhart,Quirinus Quirrell,15,False,False,True,False
+Cassius Warrington,Gregory Goyle,15,False,False,False,True
+Igor Karkaroff,Vernon Dursley,15,False,False,False,True
+James Potter I,Minerva McGonagall,15,True,False,False,False
+James Potter I,Percy Weasley,15,True,False,True,False
+Justin Finch-Fletchley,Katie Bell,15,False,False,False,True
+Bartemius Crouch Senior,Dudley Dursley,15,True,False,False,False
+Justin Finch-Fletchley,Percy Weasley,15,False,False,True,False
+Justin Finch-Fletchley,Seamus Finnigan,15,False,False,False,True
+Katie Bell,Lucius Malfoy,15,False,False,False,True
+Katie Bell,Parvati Patil,15,False,False,False,True
+Katie Bell,Viktor Krum,15,False,False,False,True
+Kreacher,Mungo Bonham,15,False,False,False,True
+Kreacher,Neville Longbottom,15,False,False,False,True
+Kreacher,Vincent Crabbe,15,False,False,False,True
+Lavender Brown,Poppy Pomfrey,15,False,False,False,True
+Arthur Weasley,Salazar Slytherin,15,False,True,False,False
+Lee Jordan,Ludovic Bagman,15,False,False,False,True
+Arthur Weasley,Igor Karkaroff,15,False,False,False,True
+Arthur Weasley,Gregory Goyle,15,False,False,False,True
+Arthur Weasley,Dean Thomas,15,False,False,False,True
+Lucian Bole,Minerva McGonagall,15,False,False,False,True
+Lucian Bole,Ronald Weasley,15,False,False,False,True
+Lucius Malfoy,Mundungus Fletcher,15,False,False,False,True
+Argus Filch,Vernon Dursley,15,False,False,False,True
+Ludovic Bagman,Luna Lovegood,15,False,False,False,True
+Ludovic Bagman,Nymphadora Tonks,15,False,False,False,True
+Argus Filch,Rolanda Hooch,15,False,False,False,True
+Argus Filch,Peter Pettigrew,15,False,False,False,True
+Bartemius Crouch Senior,Luna Lovegood,15,True,False,False,False
+Helga Hufflepuff,Rolanda Hooch,15,False,True,False,False
+Helga Hufflepuff,Padma Patil,15,False,True,False,False
+Gregory Goyle,Hedwig,15,False,False,False,True
+Cassius Warrington,Cho Chang,15,False,False,False,True
+Ginevra Weasley,Hannah Abbott,15,False,False,False,True
+Buckbeak,Gilderoy Lockhart,15,False,False,True,False
+Buckbeak,Dolores Umbridge,15,False,False,False,True
+Bertha Jorkins,Molly Weasley,15,True,False,False,False
+Ginevra Weasley,Roger Davies,15,False,False,False,True
+Bertha Jorkins,Igor Karkaroff,15,True,False,False,False
+Bertha Jorkins,George Weasley,15,True,False,False,False
+Godric Gryffindor,Quirinus Quirrell,15,False,True,False,False
+Bertha Jorkins,Draco Malfoy,15,True,False,False,False
+Graham Montague,Gregory Goyle,15,False,False,False,True
+Graham Montague,Marcus Flint,15,False,False,False,True
+Bellatrix Lestrange,Minerva McGonagall,15,False,False,False,True
+Helga Hufflepuff,Olympe Maxime,15,False,True,False,False
+Gregory Goyle,Mungo Bonham,15,False,False,False,True
+Gregory Goyle,Pomona Sprout,15,False,False,False,True
+Gregory Goyle,Rita Skeeter,15,False,False,False,True
+Gregory Goyle,Viktor Krum,15,False,False,False,True
+Hedwig,Igor Karkaroff,15,False,False,False,True
+Hedwig,Mungo Bonham,15,False,False,False,True
+Hedwig,Olympe Maxime,15,False,False,False,True
+Bartemius Crouch Senior,Peter Pettigrew,15,True,False,False,False
+Hedwig,Rowena Ravenclaw,15,False,True,False,False
+Bartemius Crouch Senior,Pansy Parkinson,15,True,False,False,False
+Helga Hufflepuff,Igor Karkaroff,15,False,True,False,False
+Helga Hufflepuff,Lucius Malfoy,15,False,True,False,False
+Aberforth Dumbledore,Dolores Umbridge,15,False,False,False,True

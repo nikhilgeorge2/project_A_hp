@@ -65,7 +65,7 @@ Every chart you put in the presentation must follow these:
 ## Image policy
 
 - Charts you generated: always fine
-- HP movie stills, book covers, character art: fine for a student presentation — but use sparingly; your charts are the visuals, not the fandom
+- HP movie stills, book covers, character art: fine — thanks, Warner Bros.
 - Wikipedia images: fine, include the URL below the image
 - Your charts are your visuals — every slide that makes a claim should show the chart that backs it
 

@@ -3,32 +3,6 @@
 
 ---
 
-## What this project is
-
-You will build and analyse a network of Harry Potter characters, then present what you found as an investigation report.
-
-The network measures co-appearance within 14 words across all 7 books — not friendship, not importance, not dialogue. A throwaway mention and a crucial scene look identical. Everything you find must be interpreted through that constraint.
-
----
-
-## Getting started
-
-```bash
-git clone https://github.com/nikhilgeorge2/project_A_hp.git
-cd project_A_hp
-jupyter notebook
-```
-
-Work through the notebooks in order:
-
-| Notebook | What you do |
-|---|---|
-| `nb1_network_and_degree.ipynb` | Build the network, measure degree, track expansion across 7 books |
-| `nb2_communities.ipynb` | Detect communities, remove Harry, find who leads each world |
-| `nb3_predictions_and_refusals.ipynb` | Predict future meetings using common neighbors, find the genuine refusals |
-
----
-
 ## The presentation
 
 **15–20 slides. You choose the structure.**
